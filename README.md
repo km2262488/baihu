@@ -1,7 +1,7 @@
 # 
 # 
 
-This is a tool used for ddos attack.
+This is a tool used for L4 ddos attack.
 
 This is a  tool used for single port ddos attack. As  it attacks to a single port you can target a specific service/port .
 
